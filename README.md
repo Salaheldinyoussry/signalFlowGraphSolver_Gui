@@ -1,2 +1,2 @@
 # signalFlowGraphSolver_Gui
-![alt text](https://github.com/Salaheldinyoussry/FunctionPlotter/blob/main/3.GIF)
+![alt text]https://github.com/Salaheldinyoussry/signalFlowGraphSolver_Gui/blob/main/1q.GIF)
